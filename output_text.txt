@@ -1,0 +1,10 @@
+Shortest Travelling Time: 0:08:41.500000
+ English Name of Checkpoint: Tuen Mun Ferry Pier
+ Ukrainian Name of Checkpoint: 屯門碼頭
+ Country: China
+ 
+ 
+Shortest Travelling Distance: 8.745097000000001 km
+ English Name of Checkpoint: Tuen Mun Ferry Pier
+ Ukrainian Name of Checkpoint: 屯門碼頭
+ Country: China
